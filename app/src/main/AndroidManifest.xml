@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.student.myapplication"
+    android:installLocation="preferExternal" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ribbon2"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+        <!--<provider-->
+            <!--android:authorities="com.facebook.app.FacebookContentProvider{510284619129681}"-->
+            <!--android:name="com.facebook.FacebookContentProvider"-->
+            <!--android:exported="true"/>-->
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name=".Splash"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.Custom1" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".TopLevelMenu"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" >
+        </activity>
+        <activity
+            android:name=".Information"
+            android:label="@string/title_activity_information" >
+        </activity>
+        <activity
+            android:name=".Causes"
+            android:label="@string/title_activity_causes" >
+        </activity>
+        <activity
+            android:name=".Prevention"
+            android:label="@string/title_activity_prevention" >
+        </activity>
+        <activity
+            android:name=".History"
+            android:label="@string/title_activity_history" >
+        </activity>
+        <activity
+            android:name=".Statistics"
+            android:label="@string/title_activity_statistics" >
+        </activity>
+        <activity
+            android:name=".Help"
+            android:label="@string/title_activity_help" >
+        </activity>
+        <activity
+            android:name=".Foods"
+            android:label="@string/title_activity_foods" >
+        </activity>
+        <activity
+            android:name=".Drinks"
+            android:label="@string/title_activity_drinks" >
+        </activity>
+        <activity
+            android:name=".Environment"
+            android:label="@string/title_activity_environment" >
+        </activity>
+        <activity
+            android:name=".Treatment"
+            android:label="@string/title_activity_treatment" >
+        </activity>
+        <activity
+            android:name=".Habits"
+            android:label="@string/title_activity_habits" >
+        </activity>
+        <activity
+            android:name=".PrevFoods"
+            android:label="@string/title_activity_prev_foods" >
+        </activity>
+        <activity
+            android:name=".PrevDrinks"
+            android:label="@string/title_activity_prev_drinks" >
+        </activity>
+        <activity
+            android:name=".PrevEnvironment"
+            android:label="@string/title_activity_prev_environment" >
+        </activity>
+        <activity
+            android:name=".PrevHabits"
+            android:label="@string/title_activity_prev_habits" >
+        </activity>
+
+        <service
+            android:name=".Sound"
+            android:enabled="true" />
+
+        <activity
+            android:name=".ForMoreInfo"
+            android:label="@string/title_activity_for_more_info" >
+        </activity>
+    </application>
+
+</manifest>

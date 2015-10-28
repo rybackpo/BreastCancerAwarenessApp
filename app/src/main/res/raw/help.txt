@@ -1,0 +1,53 @@
+BREAST CANCER APPLICATION
+
+This app is to inform Filipinos about the importance of Breast Cancer which is the top cause of death of the people in the Philippines. it shows statistics and definition of the breast cancer together with its causes and ways to prevent it.
+
+INSTRUCTIONS:
+
+1) Select a Main Category (Information, Causes, Prevention)
+2) Select a sub category
+3) Have Fun
+
+
+FEATURES:
+
+V1.0
+-Information
+    -History, Stages, Statistics
+-Causes
+    -Food, Drinks, Hobbits, Environment
+-Prevention
+    -(Soon)
+-Help
+
+V1.1
+-Edited the Splash Screen
+-Added Background Music
+
+V1.2
+-Added icons
+-Changed launcher icon
+
+V2.0
+-Background
+-Facebook Sharing
+-Sliding/Tab View
+
+SUPPORT INFORMATION:
+
+BREAST CANCER APPLICATION is developed by:
+
+Junlae Cheong
+Phone: (+63)927-134-1034
+Email: junlae_cheong@dlsu.edu.ph
+All Rights Reserved
+
+Rohit Nihalani
+Phone: (+63)926-664-9695
+Email: rohit_nihalani@dlsu.edu.ph
+All Rights Reserved
+
+Ryback Tyrone G. Po
+Phone: (+63)915-390-1911
+Email: ryback_po@dlsu.edu.ph
+All Rights Reserved

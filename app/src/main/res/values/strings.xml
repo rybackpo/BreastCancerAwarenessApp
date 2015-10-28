@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Breast Cancer App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="top_title">BREAST CANCER AWARENESS APP</string>
+    <string name="bot_title">Created by Cheong, Nihalani, Po</string>
+    <string name="bot_version">Version 2.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">Splash</string>
+
+    <string name="main_menu">Main Menu</string>
+    <string name="info_menu">Information Menu</string>
+    <string name="title_activity_information">Information</string>
+    <string name="title_activity_causes">Causes</string>
+    <string name="title_activity_prevention">Prevention</string>
+    <string name="title_activity_history">History</string>
+    <string name="title_activity_statistics">Statistics</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_foods">Foods</string>
+    <string name="title_activity_drinks">Drinks</string>
+    <string name="title_activity_environment">Environment</string>
+    <string name="title_activity_treatment">Treatment</string>
+    <string name="title_activity_habits">Habits</string>
+    <string name="title_activity_prev_foods">Foods</string>
+    <string name="title_activity_prev_drinks">Drinks</string>
+    <string name="title_activity_prev_environment">Environment</string>
+    <string name="title_activity_prev_habits">Habits</string>
+    <string name="title_activity_stages">Stages</string>
+
+    <string name="history_text">Cancer starts when cells begin to grow out of control. Cells in nearly any part of the body can become cancer, and can spread to other areas of the body. Breast cancer is a malignant tumor that starts in the cells of the breast. A malignant tumor is a group of cancer cells that can grow into surrounding tissues or spread to distant areas of the body. The disease occurs almost entirely in women, but men can get it, too.</string>
+    <string name="statistics_text">The Philippines has the highest incidence of breast cancer in Asia and an estimated 3 out of 100 Filipino women will contract the disease before age 75; 1 out of 100 will die before age 75. According to the Philippine Society of Medical Oncology in 2012, breast cancer is the most common cancer in the country, comprising 16 percent of the 80,000 new cancer cases.</string>
+    <string name="treatment_text">Surgery: remove the whole breast or the tumor and tissues around it.
+        \n\n\nRadiation therapy: uses high-energy waves to kill cancer cells.
+        \n\n\nChemotherapy: uses drugs to kill cancer cells.
+        \n\n\nHormone therapy: uses drugs to prevent estrogen from fueling the growth of breast cancer cells.</string>
+    <string name="causesfoods_text">Sugar: High glycemic index like sugars increase the chance to get breast cancer
+        \n\n\n\nHigh Fat Animal Products: Increased estrogen and prolactin levels rise to hormone-dependent cancers
+        \n\n\n\nArtificial sweeteners: Excess elevated insulin increases the risk of breast cancer</string>
+    <string name="causesdrinks_text">Milk: elevated levels of insulin-like growth factor-1 increases risk of breast cancer.
+        \n\n\n\n\nAlcohols: acetaldehyde causes genetic mutations of breast cells to cancer.
+        \n\n\n\n\nSoftdrinks: aspartame, sucralose and saccharin may increase the chance to get breast cancer.</string>
+    <string name="causesenvironment_text">Toilet Deodorizers: harsh solvent like Dichlorobenzene causes breast cancer.
+        \n\n\n\nVinyl: Phthalates are found in vinyl products and have been linked to hormone disruption, early puberty, and breast cancer.
+        \n\n\n\nAir Pollution: air polluted areas were nearly twice as likely to develop breast cancer.</string>
+    <string name="causeshabits_text">Greedy meat: excessive consumption of processed meat may increase breast cancer risk
+        \n\n\nStaying up late working: working or staying up late will increase breast cancer incidence by 40% higher.
+        \n\n\n\nNot eating breakfast: Do not eat breakfast often lead to breast cancer</string>
+    <string name="preventionsfoods_text">Broccoli: high levels of indole-3 carbinol reduce risk of developing breast cancer.
+        \n\n\n\nChia Seeds: high in Omega-3 acids and antioxidants decrease the risk of developing breast cancer.
+        \n\n\n\nTurmeric: it contains curcumin, an antioxidant that has demonstrated anticancer.</string>
+    <string name="preventionsdrinks_text">Green Tea: Polyphenols appear to inhibit proteins that promote tumor cell growth and migration.
+        \n\n\n\nSoy Milk: Isoflavones, a type of plant estrogen, reduces the risk of breast cancer.
+        \n\n\n\nVegetable Juice: Apigenin, a common compound found on vegetables, developed fewer breast cancer.</string>
+    <string name="preventionsenviroment_text">Clean Air: clean air makes the body refreshing and healthier.
+        \n\n\nUnpolluted Area: Forest is one of the unpolluted areas where human body can rest.
+        \n\n\nOrganic Products: using organic products instead of chemical products will protect the body from breast cancer.</string>
+    <string name="preventionshabits_text">Maintain Healthy Weight: obese women have double the risk of breast cancer.
+        \n\n\n\nStay Physically Active: Exercise lowers levels of estrogen, which is linked to breast cancer.
+        \n\n\n\nLimit Alcohol Consumption: daily drinking increase the risk of the most common kind of breast cancer by 32%
+</string>
+    <string name="facebook_app_id">510284619129681</string>
+    <string name="title_activity_for_more_info">For More Information</string>
+    <string name="resources">Resources:</string>
+    <string name="resources_links">\n\nhttp://www.breastcancer.org/risk/factors/unhealthy_food
+        \n\nhttp://www.everydayhealth.com/breast-cancer-pictures/foods-for-breast-cancer-prevention.aspx
+        \n\nhttps://en.wikipedia.org/wiki/Breast_cancer
+        \n\nhttp://www.cancer.gov/types/breast/patient/breast-treatment-pdq
+        \n\nhttp://www.bcaction.org/our-take-on-breast-cancer/environment/
+    </string>
+</resources>
